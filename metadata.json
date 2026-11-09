@@ -1,0 +1,6 @@
+{
+  "name": "AetherOS — Next-Generation Spatial Mobile OS",
+  "description": "A world-class next-generation mobile operating system with a complete native app ecosystem, real hardware synchronization, fluid multitasking, control center, and sovereign security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
